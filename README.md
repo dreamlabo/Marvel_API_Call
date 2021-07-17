@@ -1,5 +1,5 @@
 # Marvel API Call
-Building a prototype to display data retreived from the Marvel API.
+Building a prototype to display data retrieved from the Marvel API.
 
 ### Technologies Used
   * React
